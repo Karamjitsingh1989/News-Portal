@@ -1,7 +1,7 @@
 # NewsPortal
 
 ##### Introduction 
-NewsPortal is assignment as per given by Publicis Sapient. In this app there is list of news which is fetch from the server
+In this app there is list of news which is fetch from the server
 The news articles display in UITableView and There is detail page where the detail of news is display on webView.
 
 
